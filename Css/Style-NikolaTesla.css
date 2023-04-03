@@ -1,0 +1,43 @@
+.home {
+	font-size: 60px;
+	text-shadow: 2px 2px white;
+}
+
+.blo {
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.Idol {
+	text-align: center;
+	font-size: 500%;
+	font-family: inherit;
+	text-shadow: 2px 2px white;
+}
+
+.tesla {
+	width: 20%;
+	margin: auto;
+	display: block;
+}
+
+#hr {
+	border: 2px solid white;
+}
+
+.niko {
+	text-shadow: 2px 2px darkblue;
+	font-family: monospace;
+	color: white;
+	font-size: 150%;
+}
+
+#hr1 {
+	border: 2px solid white;
+}
+
+.nikoinfo {
+	text-shadow: 2px 2px darkblue;
+	color: white;
+	font-size: 190%;
+}

@@ -1,0 +1,214 @@
+body {
+	background-color: orange;
+}
+
+.home {
+	font-size: 60px;
+	text-shadow: 2px 2px white;
+}
+.jazzy{
+	float: left;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 200px;
+	border: 5px solid white;
+}
+
+#name1 {
+	text-align: left;
+	text-shadow: 2px 2px white;
+	font-size: 350%;
+}
+
+#name2 {
+	text-underline: under;
+	text-align: left;
+	text-shadow: 2px 2px white;
+	font-size: 350%;
+}
+
+.john{
+	float: left;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 200px;
+	border: 5px solid white;
+}
+
+.NameHeader {
+	border: 5px solid white;
+	font-size: 450%;
+	text-align: center;
+	padding: 5px;
+	width: 50%;
+	background-color: grey;
+	text-shadow: 2px 2px white;
+
+}
+
+.main2 {
+	border: 5px solid white;
+	background-color: grey;
+	padding: 100px;
+	color: black;
+}
+
+#Obj {
+	text-shadow: 2px 2px white;
+	font-size: 350%;
+}
+
+#Obj2 {
+	color: white;
+	font-size: 150%;
+}
+
+#hr1 {
+	background-color: orange;
+	height: 5px;
+	border: none;
+}
+
+.Qual {
+	text-shadow: 2px 2px white;
+	font-size: 350%;
+}
+
+#Qual1 {
+	color: white;
+	font-size: 150%;
+}
+
+#Qual2 {
+	color: white;
+	font-size: 150%;
+}
+
+#Qual3 {
+	color: white;
+	font-size: 150%;
+}
+
+#hr2 {
+	background-color: orange;
+	height: 5px;
+	border: none;
+}
+
+.WE {
+	text-shadow: 2px 2px white;
+	font-size: 350%; 
+}
+
+#WE1 {
+	color: white;
+	font-size: 150%;
+}
+
+#hr3 {
+	background-color: orange;
+	height: 5px;
+	border: none;
+}
+
+.ach {
+	text-shadow: 2px 2px white;
+	font-size: 350%;
+}
+
+#grade1 {
+	text-shadow: 2px 2px white;
+	font-size: 250%;
+}
+
+#award1 {
+	font-size: 150%;
+	color: white;
+}
+
+#grade2{
+	text-shadow: 2px 2px white;
+	font-size: 250%;
+}
+
+#award2 {
+	font-size: 150%;
+	color: white;
+}
+
+#grade3{
+	text-shadow: 2px 2px white;
+	font-size: 250%;
+}
+
+#award3 {
+	font-size: 150%;
+	color: white;
+}
+
+#hr4 {
+	background-color: orange;
+	height: 5px;
+	border: none;
+}
+
+.SchoolBackground {
+	text-shadow: 2px 2px white;
+	font-size: 350%;
+}
+
+.SchoolY {
+	text-shadow: 2px 2px white;
+	font-size: 250%;
+}
+
+#SY1 {
+	color: white;
+}
+
+#SY2 {
+	color: white;
+}
+
+#SY3 {
+	color: white;
+}
+
+#hr5 {
+	background-color: orange;
+	height: 5px;
+	border: none;
+}
+
+.AM {
+	text-shadow: 2px 2px white;
+	font-size: 350%;
+}
+
+.info {
+	font-size: 150%;
+	color: white;
+}
+
+#hr6 {
+	background-color: orange;
+	height: 5px;
+	border: none;
+}
+
+.SosyalNimo {
+	text-shadow: 2px 2px white;
+	font-size: 350%;
+}
+
+.SosyalList {
+	color: white;
+}
+
+#hr7 {
+	background-color: orange;
+	height: 5px;
+	border: none; 
+}

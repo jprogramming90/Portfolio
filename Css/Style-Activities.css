@@ -1,0 +1,28 @@
+.home {
+	font-size: 60px;
+	text-shadow: 2px 2px white;
+}
+
+.Background {
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.tetolo {
+	font-size: 80px;
+	text-align: center;
+	color: white;
+	text-shadow: 5px 2px brown;;
+}
+
+.ActList {
+	font-size: 50px;
+	color: white;
+	text-shadow: 5px 2px brown;
+}
+
+ul li a {
+	font-size: 50px;
+	color: white;
+	text-shadow: 5px 2px brown;
+}

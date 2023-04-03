@@ -1,0 +1,80 @@
+.home {
+	font-size: 60px;
+	text-shadow: 2px 2px white;
+}
+
+.Background {
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header-text {	
+	color: lightpink;
+	font-size:380%;
+	text-shadow: 2px 2px white;
+}
+
+.header-textx {
+	color: cyan;
+}
+
+.Central {
+    color: lightpink;
+}
+
+.NewYork {
+    color: lightpink;
+}
+
+.Reviews1{
+	color: white;
+}
+
+.Reviews2{
+	color: white;
+}
+
+.Reviews3{
+	color: white;
+}
+
+.Reviews4{
+	color: white;
+}
+
+.Reviews5{
+	color: white;
+}
+
+.iskabitsi{
+	color: cyan;
+}
+
+.balbakwa{
+	color: cyan;
+}
+
+.CP {
+	color: cyan;
+}
+
+.RP {
+	color: cyan;
+}
+
+.Desc {
+    color: lightpink;
+}
+
+.Rel {
+    color: lightpink;
+}
+
+.Rev {
+    color: lightpink;
+}
+
+.Des {
+	color: cyan;
+}
